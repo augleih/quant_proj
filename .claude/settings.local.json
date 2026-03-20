@@ -6,7 +6,8 @@
       "Bash(python -c \"open\\(''d:/server/qt_proj/README.md'',''rb''\\).read\\(\\)[:100]\")",
       "Bash(python -c \"data=open\\(''d:/server/qt_proj/README.md'',''rb''\\).read\\(\\)[:200]; print\\(data\\)\")",
       "Bash(python -m pytest tests/ -v)",
-      "Bash(python main.py --stages analytics)"
+      "Bash(python main.py --stages analytics)",
+      "Bash(xxd d:/server/qt_proj/README.md)"
     ]
   }
 }
